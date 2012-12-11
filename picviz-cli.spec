@@ -42,3 +42,17 @@ rm -rf %{buildroot}
 %{_mandir}/man1/pcv.1*
 %{_datadir}/picviz-cli
 
+
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 0.6-2mdv2011.0
++ Revision: 614542
+- the mass rebuild of 2010.1 packages
+
+* Sun Feb 21 2010 Guillaume Rousse <guillomovitch@mandriva.org> 0.6-1mdv2010.1
++ Revision: 509068
+- import picviz-cli
+
+
+* Sun Feb 21 2010 Guillaume Rousse <guillomovitch@mandriva.org> 0.6-1mdv2010.1
+- initial standalone package 
