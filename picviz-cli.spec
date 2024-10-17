@@ -8,7 +8,7 @@ Release: %release
 Summary: Command-line frontend for picviz
 License: GPLv3+
 Group: Graphics
-URL: http://www.wallinfire.net/picviz
+URL: https://www.wallinfire.net/picviz
 Source0: http://www.wallinfire.net/files/picviz/%{name}-%{version}.tar.gz
 BuildRequires: libpicviz-devel
 BuildRoot: %{_tmppath}/%{name}-%{version}
