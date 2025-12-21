@@ -10,6 +10,7 @@ License: GPLv3+
 Group: Graphics
 URL: https://www.wallinfire.net/picviz
 Source0: http://www.wallinfire.net/files/picviz/%{name}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires: libpicviz-devel
 BuildRoot: %{_tmppath}/%{name}-%{version}
 
